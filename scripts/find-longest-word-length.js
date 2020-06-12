@@ -37,4 +37,16 @@ function findLongestWordLength() { }
 }
 
 
-function longestWordInStringHandler() { debugger; }
+function findLongestWordLengthHandler() {
+  debugger;
+
+  // read user input
+
+  // core logic
+  const result = findLongestWordLength(str);
+
+  // display for use
+
+  // log for developers
+}
+

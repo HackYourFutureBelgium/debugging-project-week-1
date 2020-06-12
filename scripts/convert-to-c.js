@@ -42,4 +42,15 @@ function convertToC() { }
 }
 
 
-function convertToCHandler() { debugger; }
+function convertToCHandler() {
+  debugger;
+
+  // read user input
+
+  // core logic
+  const result = convertToC(f);
+
+  // display for use
+
+  // log for developers
+}

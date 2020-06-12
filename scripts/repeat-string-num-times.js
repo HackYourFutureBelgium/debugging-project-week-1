@@ -54,4 +54,16 @@ function repeatStringNumTimes() { }
 }
 
 
-function repeatStringNumTimesHandler() { debugger; }
+function repeatStringNumTimesHandler() {
+  debugger;
+
+  // read user input
+
+  // core logic
+  const result = repeatStringNumTimes(str, num);
+
+  // display for use
+
+  // log for developers
+}
+

@@ -37,9 +37,20 @@ function convertToF() { }
 
   const _6_arg = -40;
   const _6_expect = -40;
-  const _6_actual = convertToC(_6_arg);
+  const _6_actual = convertToF(_6_arg);
   console.assert(_6_actual === _6_expect, 'Test 6');
 }
 
 
-function longestWordInStringHandler() { debugger; }
+function convertToFHandler() {
+  debugger;
+
+  // read user input
+
+  // core logic
+  const result = convertToF(c);
+
+  // display for use
+
+  // log for developers
+}

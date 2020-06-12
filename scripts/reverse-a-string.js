@@ -37,9 +37,21 @@ function reverseString() { }
 
   const _6_arg = 'dogeeseseegod';
   const _6_expect = 'dogeeseseegod';
-  const _6_actual = convertToC(_6_arg);
+  const _6_actual = reverseString(_6_arg);
   console.assert(_6_actual === _6_expect, 'Test 6');
 }
 
 
-function longestWordInStringHandler() { debugger; }
+function reverseStringHandler() {
+  debugger;
+
+  // read user input
+
+  // core logic
+  const result = reverseString(str);
+
+  // display for use
+
+  // log for developers
+}
+
