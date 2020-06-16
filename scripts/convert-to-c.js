@@ -15,8 +15,8 @@ function convertToC() { }
   const _1_actual = convertToC(_1_arg);
   console.assert(_1_actual === _1_expect, 'Test 1');
 
-  const _2_arg = -14;
-  const _2_expect = 10;
+  const _2_arg = 14;
+  const _2_expect = -10;
   const _2_actual = convertToC(_2_arg);
   console.assert(_2_actual === _2_expect, 'Test 2');
 
